@@ -267,22 +267,24 @@ namespace LoadingAnimations {
                 fffffffffffffffffff
                 fffffffffffffffffff
                 fffffffffffffffffff
+                ff555555555555555ff
+                ff555555555555555ff
+                ff555555555555555ff
                 fffff555fff555fffff
                 fffff555fff555fffff
                 fffff555fff555fffff
                 fffff555fff555fffff
                 fffff555fff555fffff
                 fffff555fff555fffff
-                fffff555fff555fffff
-                fffff555fff555fffff
-                fffff555fff555fffff
-                ff555555fff555555ff
-                ff555555fff555555ff
-                ff555555fff555555ff
+                ff555555555555555ff
+                ff555555555555555ff
+                ff555555555555555ff
                 fffffffffffffffffff
                 fffffffffffffffffff
                 fffffffffffffffffff
                 fffffffffffffffffff
+`
+`
             `);
             logo.right = lastLogoRight - 2;
             text.right = scene.screenWidth() - logo.left;
