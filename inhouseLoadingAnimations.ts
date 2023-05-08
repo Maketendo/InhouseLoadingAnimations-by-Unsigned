@@ -248,7 +248,6 @@ namespace LoadingAnimations {
                 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
                 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
                 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-
             `, SpriteKind.InhouseLoadingAnimation));
             logo.right = scene.screenWidth() / 2 + (17 / 2); logo.top = scene.screenHeight();
 
@@ -283,8 +282,6 @@ namespace LoadingAnimations {
                 fffffffffffffffffff
                 fffffffffffffffffff
                 fffffffffffffffffff
-`
-`
             `);
             logo.right = lastLogoRight - 2;
             text.right = scene.screenWidth() - logo.left;
