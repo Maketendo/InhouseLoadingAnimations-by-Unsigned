@@ -227,23 +227,22 @@ namespace LoadingAnimations {
             text.image.print("Unique-A-Thon 2", 0, 10, 1);
 
             const logo: Sprite = this.optimize_sprite(sprites.create(img`
-               img`
                 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
                 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
                 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
                 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff55555555555555ff
-                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff55555555555555ff
-                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff55555555555555ff
-                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555ff555fffff
-                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555ff555fffff
-                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555ff555fffff
-                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555ff555fffff
-                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555ff555fffff
-                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555ff555fffff
-                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff55555555555555ff
-                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff55555555555555ff
-                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff55555555555555ff
+                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555555555555555ff
+                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555555555555555ff
+                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555555555555555ff
+                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555fff555fffff
+                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555fff555fffff
+                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555fff555fffff
+                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555fff555fffff
+                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555fff555fffff
+                fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555fff555fffff
+                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555555555555555ff
+                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555555555555555ff
+                ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff555555555555555ff
                 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
                 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
                 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
